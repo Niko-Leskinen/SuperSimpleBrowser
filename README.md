@@ -1,4 +1,4 @@
 # SuperSimpleBrowser
 
-Google Play link:
+Google Play link:\
 https://play.google.com/store/apps/details?id=com.myBrowser.ssb
